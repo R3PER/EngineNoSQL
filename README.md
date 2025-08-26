@@ -3,6 +3,19 @@
 ## About the Application
 EngineNoSQL is a professional application for managing NoSQL databases that enables creating, managing, and manipulating data without the need to define schemas. The application combines simplicity and performance, delivering a complete solution for working with document-format data.
 
+## Screens nad Videos
+
+<img width="1021" height="809" alt="1" src="https://github.com/user-attachments/assets/50ac7e71-f08e-4003-bbc8-b7b8a8731ab0" />
+<img width="1022" height="812" alt="2" src="https://github.com/user-attachments/assets/8a09a8dc-cbea-4830-8917-8d44f6a483ab" />
+<img width="1022" height="810" alt="3" src="https://github.com/user-attachments/assets/b5df3428-f954-4524-860f-9cf4ca4fad38" />
+<img width="1023" height="813" alt="4" src="https://github.com/user-attachments/assets/2e24fab6-1508-4829-9003-70c805aeb20f" />
+<img width="1023" height="812" alt="5" src="https://github.com/user-attachments/assets/d3e0bdfb-bd82-4792-a362-351c2d3994cb" />
+
+
+https://github.com/user-attachments/assets/ac5c633d-0a32-4011-bcd3-9ed57cbcdf1f
+
+
+
 ## Features
 
 ### Database Management
